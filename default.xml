@@ -1,0 +1,13 @@
+<manifest>
+	<remote name="githubpan" fetch="https://github.com/jianxinpanpan/" />
+
+	<project dest-branch="master"  remote="githubpan" path="tiny_tools" name="tiny_tools"  revision="master"/>
+	<project dest-branch="master"  remote="githubpan" path="stressapptest" name="stressapptest"  revision="master"/>
+	<project dest-branch="master"  remote="githubpan" path="lmbench-3.0.a9" name="lmbench-3.0.a9"  revision="master"/>
+	<project dest-branch="master"  remote="githubpan" path="perf_arm" name="perf_arm"  revision="master"/>
+	<project dest-branch="master"  remote="githubpan" path="htop" name="htop"  revision="master"/>
+	<project dest-branch="master"  remote="githubpan" path="qemu_img" name="qemu_img"  revision="master"/>
+	<project dest-branch="android-4.9"  remote="githubpan" path="android_49_qemu" name="android_49_qemu"  revision="android-4.9"/>
+	<project dest-branch="master"  remote="githubpan" path="qemu-2.12.0-rc2" name="qemu-2.12.0-rc2_src"  revision="master"/>
+	<project dest-branch="master"  remote="githubpan" path="busybox-1.28.2" name="busybox-1.28.2"  revision="master"/>
+</manifest>
