@@ -1,7 +1,7 @@
 <manifest>
 	<remote name="githubpan" fetch="https://github.com/jianxinpanpan/" />
 
-	<project dest-branch="master"  remote="githubpan" path="tiny_tools" name="tiny_tools"  revision="master"/>
+	<project dest-branch="master"  remote="githubpan" path="tools_arm" name="tools_arm"  revision="master"/>
 	<project dest-branch="master"  remote="githubpan" path="lmbench-3.0.a9" name="lmbench-3.0.a9"  revision="master"/>
 	<project dest-branch="master"  remote="githubpan" path="qemu_img" name="qemu_img"  revision="master"/>
 	<project dest-branch="android-4.9"  remote="githubpan" path="android_49_qemu" name="android_49_qemu"  revision="android-4.9"/>
