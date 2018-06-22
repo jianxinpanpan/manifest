@@ -1,5 +1,5 @@
 <manifest>
-	<remote name="githubpan" fetch="https://github.com/jianxinpanpan/" />
+	<remote name="githubpan" fetch="https://github.com/linuxpanpan/" />
 
 	<project dest-branch="master"  remote="githubpan" path="samples" name="samples"  revision="master"/>
 	<project dest-branch="master"  remote="githubpan" path="tools_arm" name="tools_arm"  revision="master"/>
